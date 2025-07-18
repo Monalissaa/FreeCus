@@ -8,6 +8,6 @@ This repository is the official implementation of [FreeCus](#) [ICCV-2025].
 
 <div>
 <p align="center">
-<img src='assets/first_figure.jpg' align="center" width=900>
+<img src='assets/teaser.jpg' align="center" width=900>
 </p>
 </div>
