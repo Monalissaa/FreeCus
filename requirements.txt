@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch
+torchvision
+torchaudio
+diffusers
+numpy
+opencv-python
+pillow
+transformers
+qwen-vl-utils
+protobuf
