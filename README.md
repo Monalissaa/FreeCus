@@ -1,10 +1,10 @@
 # FreeCus
 
-This repository is the official implementation of [FreeCus](#) [ICCV-2025].
+This repository is the official implementation of [FreeCus](http://arxiv.org/abs/2507.15249) [ICCV-2025].
 
 > **FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers** <br>
 > Yanbing Zhang, Zhe Wang, Qin Zhou, Mengping Yang<br>
-> [pdf](#)
+> [pdf](http://arxiv.org/abs/2507.15249)
 
 <div>
 <p align="center">
