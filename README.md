@@ -2,7 +2,7 @@
 <h1>FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers</h1>
 
 
-[Yanbing Zhang](https://openreview.net/profile?id=~Zhiyu_Tan1) · [Zhe Wang](https://openreview.net/profile?id=~Yang_Hao4) · [Qin Zhou](https://openreview.net/profile?id=~Luozheng_Qin1) · [Mengping Yang](https://scholar.google.com/citations?user=ZV-ThegAAAAJ&hl=zh-CN&oi=ao)
+[Yanbing Zhang](https://openreview.net/profile?id=~Yanbing_Zhang2) · [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang15) · [Qin Zhou](https://openreview.net/profile?id=~Qin_Zhou3) · [Mengping Yang](https://openreview.net/profile?id=%7EMengping_Yang2)
 
 [zhangyanbing@mail.ecust.edu.cn](mailto:zhangyanbing@mail.ecust.edu.cn)
 
